@@ -1,0 +1,35 @@
+body {
+	text-align: center;
+}
+.field_desc {
+	width: 100px;
+	display: inline-block;
+}
+.field {
+	width: 150px;
+}
+
+.error {
+	color: red;
+}
+
+.notification {
+	display: inline-block;
+	border: 1px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	width: 500px;
+	padding: 20px;
+	margin-bottom: 10px;
+}
+.notification label {
+	font-size: 20px;
+}
+.actions {
+	margin-top: 30px;
+	text-align: left;
+}
+.notification h3 {
+	margin-top: 0px;
+}
